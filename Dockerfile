@@ -1,4 +1,4 @@
-FROM nginx
+FROM twalter/openshift-nginx:stable
 
 MAINTAINER Sebastiaan Renkens <srenkens@gmail.com>
 
